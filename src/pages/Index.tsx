@@ -100,7 +100,7 @@ const Index = () => {
       <footer className="mt-16 py-8 border-t border-border">
         <div className="container mx-auto px-4 text-center">
           <p className="text-muted-foreground text-sm">
-            © 2024 Strelix. All rights reserved. Powered by VidLink & TMDB.
+            © 2026 ZenFlix. Credits: ZenKai.
           </p>
         </div>
       </footer>
